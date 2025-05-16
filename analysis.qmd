@@ -3,3 +3,15 @@ title: "analysis"
 format: html
 editor: visual
 ---
+
+
+
+```{r}
+library(palmerpenguins)
+library(dplyr)
+library(ggplot2)
+library(palmerpenguins)
+library(tidyr)
+library(knitr)
+```
+
